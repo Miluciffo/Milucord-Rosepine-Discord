@@ -4,3 +4,5 @@ A Rose pine discord theme with rounded chat and sidebars.
 
 <div><h1>Install</h1></div>
 <li>Download file 'midnight.theme.css' </li>
+<li>Put the file into your theme folder. (there should be a button to open the theme folder in theme settings)</li>
+<li>(optional) Customize the theme in midnight.theme.css</li>
